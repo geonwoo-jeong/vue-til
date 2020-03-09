@@ -1,0 +1,3 @@
+[submodule "vue-til-frontend"]
+	path = vue-til-frontend
+	url = https://github.com/geonwoo-jeong/vue-til-frontend.git
